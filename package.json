@@ -14,5 +14,18 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkdh/book.search.engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajkdh/book.search.engine/issues"
+  },
+  "homepage": "https://github.com/rajkdh/book.search.engine#readme",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.7.1",
+    "graphql": "^16.6.0"
   }
 }
